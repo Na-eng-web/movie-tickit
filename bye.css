@@ -1,6 +1,10 @@
 *{
     background-color: rgb(139, 245, 250)
 }
+
+body{
+    font-family: sans-serif;
+}
 .prise{
     font-size: 1.5rem;
   
